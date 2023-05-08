@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UDV_Test_Cards", "UDV_Test_Cards\UDV_Test_Cards.csproj", "{32475C6A-6F8D-440D-8225-E41C3A8F75A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32475C6A-6F8D-440D-8225-E41C3A8F75A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32475C6A-6F8D-440D-8225-E41C3A8F75A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32475C6A-6F8D-440D-8225-E41C3A8F75A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32475C6A-6F8D-440D-8225-E41C3A8F75A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4036BFE2-E385-4360-A871-C387C818B311}
+	EndGlobalSection
+EndGlobal
